@@ -1,4 +1,4 @@
-# Hello World, I'm EduardoConx
+# Hello World, I'm EduardoConX
 
 💻 Full Stack Developer
 ☁️ AWS Certified Solutions Architect
