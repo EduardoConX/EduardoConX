@@ -79,12 +79,12 @@ Clean code and simplicity over unnecessary complexity.
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eduardoconx&show_icons=true)
+[Stats](https://github-readme-stats.vercel.app/api?username=eduardoconx&show_icons=true)
 
 ---
 
 ## 🤝 Let's Connect
 
-* 🌐 ![Portfolio](https://eduardoconx.github.io/)
-* 💼 ![LinkedIn](https://www.linkedin.com/in/eduardx/)
-* 📧 ![Email](mailto:eduardopachecoquintanar@gmail.com)
+* 🌐 [Portfolio](https://eduardoconx.github.io/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/eduardx/)
+* 📧 [Email](mailto:eduardopachecoquintanar@gmail.com)
