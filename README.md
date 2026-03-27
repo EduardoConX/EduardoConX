@@ -85,6 +85,6 @@ Clean code and simplicity over unnecessary complexity.
 
 ## 🤝 Let's Connect
 
-* 🌐 [Portfolio](https://eduardoconx.github.io/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/eduardx/)
-* 📧 [Email](mailto:eduardopachecoquintanar@gmail.com)
+* 🌐 ![Portfolio](https://eduardoconx.github.io/)
+* 💼 ![LinkedIn](https://www.linkedin.com/in/eduardx/)
+* 📧 ![Email](mailto:eduardopachecoquintanar@gmail.com)
